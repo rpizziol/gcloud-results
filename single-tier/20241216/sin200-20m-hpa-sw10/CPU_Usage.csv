@@ -1,5 +1,4 @@
-TimeSeries ID,05d10d54-8e9a-419f-96cd-ff17e05f962b-0-0
-project_id,my-microservice-test-project
+TimeSeries ID,CPU_Usage
 Mon Dec 16 2024 15:31:00 GMT+0100 (Central European Standard Time),0.003396551639120086
 Mon Dec 16 2024 15:32:00 GMT+0100 (Central European Standard Time),0.058978987770415374
 Mon Dec 16 2024 15:33:00 GMT+0100 (Central European Standard Time),0.23016735184932874
@@ -20,5 +19,3 @@ Mon Dec 16 2024 15:47:00 GMT+0100 (Central European Standard Time),0.32259284892
 Mon Dec 16 2024 15:48:00 GMT+0100 (Central European Standard Time),0.23279306018453705
 Mon Dec 16 2024 15:49:00 GMT+0100 (Central European Standard Time),0.08552926969706776
 Mon Dec 16 2024 15:50:00 GMT+0100 (Central European Standard Time),0.28055222351425363
-Mon Dec 16 2024 15:51:00 GMT+0100 (Central European Standard Time),0.2337464750032148
-Mon Dec 16 2024 15:52:00 GMT+0100 (Central European Standard Time),0.08956375116747191

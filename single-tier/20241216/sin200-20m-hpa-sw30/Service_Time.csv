@@ -1,5 +1,4 @@
-TimeSeries ID,63749c64-a5f4-477d-9271-2114aca709f5-0-0
-project_id,my-microservice-test-project
+TimeSeries ID,Service_Time
 Mon Dec 16 2024 15:07:00 GMT+0100 (Central European Standard Time),113
 Mon Dec 16 2024 15:09:00 GMT+0100 (Central European Standard Time),276.85296452274383
 Mon Dec 16 2024 15:10:00 GMT+0100 (Central European Standard Time),393.2886746838594
@@ -20,5 +19,3 @@ Mon Dec 16 2024 15:24:00 GMT+0100 (Central European Standard Time),63.6802779453
 Mon Dec 16 2024 15:25:00 GMT+0100 (Central European Standard Time),51.42301471380989
 Mon Dec 16 2024 15:26:00 GMT+0100 (Central European Standard Time),58.89283274852846
 Mon Dec 16 2024 15:27:00 GMT+0100 (Central European Standard Time),66.62722351261664
-Mon Dec 16 2024 15:28:00 GMT+0100 (Central European Standard Time),52.082554451243475
-Mon Dec 16 2024 15:29:00 GMT+0100 (Central European Standard Time),48.22019163033418
